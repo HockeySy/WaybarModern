@@ -1,0 +1,2 @@
+# WaybarModern
+Waybar hyprland modern
