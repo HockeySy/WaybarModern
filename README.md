@@ -11,4 +11,6 @@ Whether you're a wanderer in the land of dotfiles, a lover of clean design, or j
 # Install - let the bar breache yout desktop
 
 Clone the configuration:
-"""git clone  https://github.com/HockeySy/WaybayModern.git"""
+```bash
+git clone https://github.com/HockeySy/Wayra Modern~/waybar
+```
