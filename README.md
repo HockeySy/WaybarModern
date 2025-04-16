@@ -12,7 +12,7 @@ Whether you're a wanderer in the land of dotfiles, a lover of clean design, or j
 
 Clone the configuration:
 ```bash
-git clone https://github.com/HockeySy/Wayra Modern~/waybar
+git clone https://github.com/HockeySy/WaybarModern.git
 ```
 
 # Credits & Soul
